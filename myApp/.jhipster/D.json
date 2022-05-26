@@ -1,0 +1,21 @@
+{
+  "applications": ["myApp"],
+  "changelogDate": "20220526154552",
+  "databaseType": "sql",
+  "dto": "no",
+  "embedded": false,
+  "entityTableName": "d",
+  "fields": [
+    {
+      "fieldName": "dd",
+      "fieldType": "String"
+    }
+  ],
+  "fluentMethods": true,
+  "jpaMetamodelFiltering": false,
+  "name": "D",
+  "pagination": "no",
+  "readOnly": false,
+  "relationships": [],
+  "service": "no"
+}
